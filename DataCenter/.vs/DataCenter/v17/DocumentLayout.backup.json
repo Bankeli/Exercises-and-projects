@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\My WorkFlow\\Github\\Exercises-and-projects\\DataCenter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B3B352C-96BC-43A3-B37B-9D3130CB86DD}|DataCenter\\DataCenter.csproj|d:\\my workflow\\github\\exercises-and-projects\\datacenter\\datacenter\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B3B352C-96BC-43A3-B37B-9D3130CB86DD}|DataCenter\\DataCenter.csproj|solutionrelative:datacenter\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5B3B352C-96BC-43A3-B37B-9D3130CB86DD}|DataCenter\\DataCenter.csproj|d:\\my workflow\\github\\exercises-and-projects\\datacenter\\datacenter\\rack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B3B352C-96BC-43A3-B37B-9D3130CB86DD}|DataCenter\\DataCenter.csproj|solutionrelative:datacenter\\rack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3B352C-96BC-43A3-B37B-9D3130CB86DD}|DataCenter\\DataCenter.csproj|d:\\my workflow\\github\\exercises-and-projects\\datacenter\\datacenter\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3B352C-96BC-43A3-B37B-9D3130CB86DD}|DataCenter\\DataCenter.csproj|solutionrelative:datacenter\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B3B352C-96BC-43A3-B37B-9D3130CB86DD}|DataCenter\\DataCenter.csproj|d:\\my workflow\\github\\exercises-and-projects\\datacenter\\datacenter\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,16 +25,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StartUp.cs",
               "DocumentMoniker": "D:\\My WorkFlow\\Github\\Exercises-and-projects\\DataCenter\\DataCenter\\StartUp.cs",
               "RelativeDocumentMoniker": "DataCenter\\StartUp.cs",
-              "ToolTip": "D:\\My WorkFlow\\Github\\Exercises-and-projects\\DataCenter\\DataCenter\\StartUp.cs*",
-              "RelativeToolTip": "DataCenter\\StartUp.cs*",
+              "ToolTip": "D:\\My WorkFlow\\Github\\Exercises-and-projects\\DataCenter\\DataCenter\\StartUp.cs",
+              "RelativeToolTip": "DataCenter\\StartUp.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-03T12:31:11.812Z",
@@ -55,13 +55,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Rack.cs",
               "DocumentMoniker": "D:\\My WorkFlow\\Github\\Exercises-and-projects\\DataCenter\\DataCenter\\Rack.cs",
               "RelativeDocumentMoniker": "DataCenter\\Rack.cs",
               "ToolTip": "D:\\My WorkFlow\\Github\\Exercises-and-projects\\DataCenter\\DataCenter\\Rack.cs",
               "RelativeToolTip": "DataCenter\\Rack.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wDIAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-03T12:06:03.56Z",
               "EditorCaption": ""

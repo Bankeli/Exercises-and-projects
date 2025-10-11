@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataCenter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17f9f5b40001b5f15cae08f3d19e3adbfbbfabef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee3a3e49494d548b5c463641c00907b065586efc")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataCenter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataCenter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
